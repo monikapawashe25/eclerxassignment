@@ -1,0 +1,15 @@
+.cartBox{
+	background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+    width: 100%;
+    margin-left:10px !important;
+}
+.cardData{
+	margin-left: 10px !important;
+	margin-right: 10px !important;
+	border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+	
+}

@@ -1,0 +1,47 @@
+.formBox{
+	background-color: #FFF;
+	padding: 30px;
+	margin-top: 25%;
+}
+.topheading{
+	padding-top: 30px;
+}
+.error{
+	color: #f00;
+}
+.form-control {
+    border-radius: 3px !important;
+    box-shadow: none;
+    border-color: #ccc;
+    letter-spacing: 1px;
+    font-family: "MYRIADPROREGULAR";
+    padding-left: 50px !important;
+    font-size: 14px !important;
+}
+.input-icons-font i {
+    position: absolute;
+}
+.icon {
+    height: 34px;
+    color: #666;
+    font-size: 15px;
+    padding: 10px 13px 10px 16px;
+    border-right: 1px solid rgba(121,103,121,.3686274509803922);
+}
+.BtnBox{
+	margin-top: 30px
+}
+.showHideSignDiv {
+    top: -25px;
+    float: right;
+    margin-right: 25px;
+    color: #666;
+    z-index: 999;
+    position: relative;
+}
+.showPwd{
+    display: block;
+}
+.hidePwd{
+    display: none;
+}

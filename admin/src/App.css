@@ -1,0 +1,28 @@
+.coverBox{
+  margin-right: 15px;
+  margin-left: 15px;
+}
+.sidebarBox{
+  background-color: #222d32;
+  position: fixed;
+  height: 100%;
+  width: 20%;
+  overflow-y: auto;
+  z-index: 1; 
+  padding-top: 100px;
+}
+.mainContentBox{
+  margin-left: 22%;
+  margin-top: 6%;
+}
+li{
+  list-style: none;
+  padding: 10px;
+}
+.menulinks{
+  color: #FFF;
+
+}
+.sidebarMenuTitle{
+  padding-left:10px;
+}

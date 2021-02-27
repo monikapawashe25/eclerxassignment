@@ -1,0 +1,70 @@
+.table-margin{
+	margin-top: 20px;
+}	
+.tableHeader{
+	text-align: center !important;
+    background-color: #ddd;
+    color: #333;
+}
+
+.tableHeader th{
+	text-align: center;
+    font-family: 'montserrat-font' !important;
+}
+.adminLmsTable {
+ 	border-collapse: separate;
+    border-spacing: 0 1em;
+    border: none !important;
+}
+.adminLmsTable td, .adminLmsTable th{
+	/*border:none !important;*/
+	border-top: 1px solid #ddd;
+    border-left: none !important;
+    border-right: none !important;
+    padding-top: 10px !important;
+    text-transform: capitalize;
+    
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+}
+.tableHeader th{
+     padding-top: 20px !important;
+    padding-bottom: 20px !important;
+}
+tr{
+	/*border-bottom : 1px solid #ddd !important;*/
+/*	height:60px !important;*/
+}
+.adminLmsTable td{
+	/*padding-top: 17px !important;*/
+
+   /* vertical-align: middle !important;*/
+	text-transform: capitalize;
+	padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+.tblAction{
+	width: 130px;
+}
+.adminLmsTable th:first-child { 
+								border-left: 1px solid #ddd !important;
+								border-radius: 5px 0px 0px 5px;
+								 }
+.adminLmsTable th:last-child { border-radius: 0px 5px 5px 0px;
+								}								 
+
+
+.adminLmsTable td:first-child { 
+								border-left: 1px solid #ddd !important;
+								border-radius: 5px 0px 0px 5px;
+								 }
+.adminLmsTable td:last-child { border-right: 1px solid #ddd !important; 
+								border-radius: 0px 5px 5px 0px;
+								}
+
+.adminLmsTable td:nth-child(even) .delcolor {
+	background-color: #fff !important;
+}
+
+
+
